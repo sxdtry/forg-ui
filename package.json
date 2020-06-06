@@ -1,0 +1,21 @@
+{
+  "name": "frog-ui",
+  "version": "1.0.0",
+  "description": "基于vue的一款ui组件库",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "frog ui"
+  },
+  "author": "sxdtry",
+  "license": "ISC",
+  "devDependencies": {
+    "less": "^3.11.3",
+    "less-loader": "^6.1.0",
+    "vuepress": "^1.5.0"
+  }
+}
