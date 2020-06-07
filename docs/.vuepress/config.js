@@ -2,6 +2,9 @@ module.exports = {
     base: '/frog/',
     title: "Frog UI",
     description: "个人组件库",
+    head: [
+        ['link', { rel: 'stylesheet', href: '/font/iconfont.css' }]
+    ],
     themeConfig: {
         nav: [
             { text: '主页', link: '/' },
@@ -27,7 +30,9 @@ module.exports = {
                 title: "组件",
                 collapsable: false,
                 children: [
-                    './components/button'
+                    './components/button',
+                    './components/button-group',
+                    './components/dialog',
                 ]
             },
         ]
