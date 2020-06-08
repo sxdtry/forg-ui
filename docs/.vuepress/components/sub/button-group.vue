@@ -18,7 +18,7 @@ export default {
 }
 </script>
 
-<style lang="less" scoped>
+<style lang="scss" scoped>
     .s-button-group{
         display: inline-block;
         vertical-align: middle;

@@ -33,7 +33,7 @@ export default {
 };
 </script>
 
-<style lang="less" scoped>
+<style lang="scss" scoped>
 .s-button {
   display: inline-block;
   line-height: 1;

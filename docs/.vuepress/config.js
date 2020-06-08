@@ -31,8 +31,14 @@ module.exports = {
                 collapsable: false,
                 children: [
                     './components/button',
-                    './components/button-group',
                     './components/dialog',
+   	                './components/input',
+                    './components/grid',
+                    './components/collapse',
+                    './components/radio',
+                    './components/checkbox',
+                    './components/switch',
+                    './components/form',
                 ]
             },
         ]

@@ -6,8 +6,8 @@
   </div>
 </template>
 <script>
-import SButton from './sub/s-button.vue'
-import SButtonGroup from './sub/s-button-group.vue'
+import SButton from './sub/button.vue'
+import SButtonGroup from './sub/button-group.vue'
 export default {
     components:{
       SButtonGroup,

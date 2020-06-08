@@ -44,7 +44,7 @@ export default {
 };
 </script>
 
-<style lang="less" scope>
+<style lang="scss" scope>
 .s-dialog-wrapper {
   position: fixed;
   top: 0;

@@ -14,8 +14,8 @@
 </template>
 
 <script>
-import SButton from './sub/s-button.vue'
-import SDialog from './sub/s-dialog.vue'
+import SButton from './sub/button.vue'
+import SDialog from './sub/dialog.vue'
 export default {
   data(){
     return {

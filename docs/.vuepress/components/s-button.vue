@@ -11,7 +11,7 @@
 </template>
 
 <script>
-import SButton from './sub/s-button.vue'
+import SButton from './sub/button.vue'
 export default {
   components:{
     SButton,

@@ -1,12 +1,12 @@
 # dialog 弹出框
 
-预览
+**预览**
 
 <ClientOnly>
-<d-dialog/>
+<s-dialog/>
 </ClientOnly>
 
-代码演示
+**代码演示**
 ```html
 <template>
     <s-button type="primary" @click="fn">点击</s-button>
